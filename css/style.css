@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+  font-size: 100%;
+  width: 80vw;
+  border: 2px solid #ffffff;
+  background-color: #f2f9ff;
+}
+
+.main {
+  background-color: #d4e2ef;
+}
+.main .text {
+  justify-content: center;
+}
+
+.row {
+  display: flex;
+  justify-content: space-around;
+  padding: 2vh 0;
+}
+
+/*# sourceMappingURL=style.css.map */
